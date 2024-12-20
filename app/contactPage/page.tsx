@@ -20,7 +20,8 @@ export default function Contact(){
                 <Image src={"/places/logoPic.png"}
                 alt="contact image"
                 width={500}
-                height={400}>
+                height={400} 
+                className=" bg-white rounded-full p-5">
 
                 </Image>
             </div>
