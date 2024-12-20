@@ -19,7 +19,7 @@ const Places =() =>{
   </h1>
 
   <div className="pt-12 sm:pt-16 flex justify-center">
-    <Image src={'/New folder/visitPIc.jpg'} width={400} height={300}
+    <Image src={'/places/visitPIc.jpg'} width={400} height={300}
       className=" sm:w-96 md:w-[500px] lg:w-[600px]"
       alt="visitImage"
     />
