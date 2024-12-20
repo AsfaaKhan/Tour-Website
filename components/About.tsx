@@ -30,7 +30,7 @@ export default function About() {
 
                     <div>
                         <Image
-                            src={'/New folder/backgroundImage.jpg'} width={400} height={200} alt="about pic" ></Image>
+                            src={'/about pic.jpg'} width={400} height={200} alt="about pic" ></Image>
                     </div>
                 </div>
 
@@ -40,7 +40,7 @@ export default function About() {
 
                     <div>
                         <Image
-                            src={'/places/visit.jpg'} width={400} height={200} alt="about pic" ></Image>
+                            src={'/image1.jpg'} width={400} height={200} alt="about pic" ></Image>
                     </div>
 
                     <div className=" flex flex-col justify-center   gap-6">

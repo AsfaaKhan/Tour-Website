@@ -31,7 +31,7 @@ export default function SubAbout() {
 
                     <div>
                         <Image
-                            src={'/New folder/backgroundImage.jpg'} width={400} height={200} alt="about pic" ></Image>
+                            src={'/about pic.jpg'} width={400} height={200} alt="about pic" ></Image>
                     </div>
                 </div>
             </div>
